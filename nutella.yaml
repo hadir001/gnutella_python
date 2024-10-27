@@ -1,0 +1,6 @@
+- Title: "Example Document"
+  Id: "doc123"
+  genre:
+    - "genre1"
+    - "genre2"
+  storage: "/path/to/document"

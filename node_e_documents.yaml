@@ -1,0 +1,13 @@
+- Title: "Document E1"
+  Id: "doc125"
+  genre:
+    - "education"
+    - "science"
+  storage: "/path/to/documentE1"
+
+- Title: "Document E2"
+  Id: "doc124"
+  genre:
+    - "history"
+    - "art"
+  storage: "/path/to/documentE2"

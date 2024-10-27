@@ -1,0 +1,13 @@
+- Title: "Document C1"
+  Id: "doc126"
+  genre:
+    - "literature"
+    - "fiction"
+  storage: "/path/to/documentC1"
+
+- Title: "Document C2"
+  Id: "doc127"
+  genre:
+    - "science"
+    - "biology"
+  storage: "/path/to/documentC2"
